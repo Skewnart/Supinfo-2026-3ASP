@@ -3,4 +3,7 @@
     <Project Path="Module 1/ConsoleApp/ConsoleApp.csproj" />
     <Project Path="Module 1/WpfApp/WpfApp.csproj" Id="4a5c1488-63cc-4293-a6b6-c2d39b5849fb" />
   </Folder>
+  <Folder Name="/Module 2/">
+    <Project Path="Module 2/ConsoleApp/ConsoleApp.csproj" Id="6c8ca47f-7ba7-4436-a8f4-afbbc5bdfd34" />
+  </Folder>
 </Solution>
