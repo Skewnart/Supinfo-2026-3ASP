@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Module 1/">
+    <Project Path="Module 1/ConsoleApp/ConsoleApp.csproj" />
+    <Project Path="Module 1/WpfApp/WpfApp.csproj" Id="4a5c1488-63cc-4293-a6b6-c2d39b5849fb" />
+  </Folder>
+</Solution>
