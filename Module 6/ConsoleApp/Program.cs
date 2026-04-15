@@ -21,6 +21,11 @@
             {
                 Console.WriteLine($"{row.Key}, qté : {row.Value}");
             }
+
+            // # Partie 2 : Méthodes d'extension / Exceptions
+
+            int number = "ab".ToInt32();
+            Console.WriteLine(number);
         }
     }
 }
