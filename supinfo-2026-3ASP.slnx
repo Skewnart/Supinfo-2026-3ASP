@@ -18,4 +18,7 @@
   <Folder Name="/Module 6/">
     <Project Path="Module 6/ConsoleApp/ConsoleApp.csproj" Id="a7b0620f-c2ba-4fb6-b24c-a931ff7b5426" />
   </Folder>
+  <Folder Name="/Module 7/">
+    <Project Path="Module 7/ConsoleApp/ConsoleApp.csproj" Id="2487a794-ddff-438a-8ac9-be905ab0fbc6" />
+  </Folder>
 </Solution>
