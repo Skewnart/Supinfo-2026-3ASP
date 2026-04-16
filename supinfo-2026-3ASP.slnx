@@ -21,4 +21,8 @@
   <Folder Name="/Module 7/">
     <Project Path="Module 7/ConsoleApp/ConsoleApp.csproj" Id="2487a794-ddff-438a-8ac9-be905ab0fbc6" />
   </Folder>
+  <Folder Name="/Module 8/">
+    <Project Path="Module 8/DAL/DAL.csproj" Id="77a16d02-88c9-4704-85d0-3a225762c94c" />
+    <Project Path="Module 8/SchoolAPI/SchoolAPI.csproj" Id="035e9e2b-c989-4ace-a1ce-a6234760a838" />
+  </Folder>
 </Solution>
