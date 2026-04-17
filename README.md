@@ -11,3 +11,4 @@
 - [Module 7 - Les données](https://github.com/Skewnart/Supinfo-2026-3ASP/tree/main/Module%207)
 - [Module 8 - WebAPI partie 1](https://github.com/Skewnart/Supinfo-2026-3ASP/tree/main/Module%208)
 - [Module 9 - WebAPI partie 2 - Swagger](https://github.com/Skewnart/Supinfo-2026-3ASP/tree/main/Module%208)
+- [Module 9 - WebAPI partie 2 - CORS](https://github.com/Skewnart/Supinfo-2026-3ASP/tree/main/Module%209)

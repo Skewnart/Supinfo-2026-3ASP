@@ -25,4 +25,7 @@
     <Project Path="Module 8/DAL/DAL.csproj" Id="77a16d02-88c9-4704-85d0-3a225762c94c" />
     <Project Path="Module 8/SchoolAPI/SchoolAPI.csproj" Id="035e9e2b-c989-4ace-a1ce-a6234760a838" />
   </Folder>
+  <Folder Name="/Module 9/">
+    <Project Path="Module 9/Client/Client.csproj" Id="fbb60681-5443-4658-ab0c-9e9ba4c02f7a" />
+  </Folder>
 </Solution>

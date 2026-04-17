@@ -11,8 +11,11 @@
 
         public override string ToString()
         {
-            return $@"La classe {this.Name} (ID: {this.ID}) :\n
-{string.Join("\n", this.Students)}";
+            return $@"La classe ""{this.Name}"" (ID: {this.ID})
+Professeur :
+{'\t'}{this.Teacher}
+Elèves :
+{string.Join("\n", this.Students.Select(eleve => $"\t- {eleve}"))}";
         }
     }
 }

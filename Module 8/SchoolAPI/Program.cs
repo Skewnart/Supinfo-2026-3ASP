@@ -44,8 +44,17 @@ namespace SchoolAPI
             });
 
 
-            var app = builder.Build();
+            builder.Services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(builder =>
+                {
+                    builder
+                        .WithOrigins("http://localhost:8000")
+                        .WithMethods("GET");
+                });
+            });
 
+            var app = builder.Build();
 
             if (app.Environment.IsDevelopment())
             {
@@ -54,12 +63,9 @@ namespace SchoolAPI
             }
 
             app.UseHttpsRedirection();
-
             app.UseAuthorization();
-
-
+            app.UseCors();
             app.MapControllers();
-
             app.Run();
         }
     }
